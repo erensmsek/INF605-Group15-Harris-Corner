@@ -8,13 +8,13 @@ We study and implement the corner detector from:
 
 ## Team
 
-| # | Name |
-|---|------|
-| 1 | Eren Şimşek (contact) |
-| 2 | Mert Oğuz Mirzaoğlu |
-| 3 | Muhammet Şimşek |
-| 4 | Ahmetcan Karabulut |
-| 5 | Yunus Emre Erdoğan |
+| # | Name | GitHub |
+|---|------|--------|
+| 1 | Eren Şimşek (contact) | [@erensmsek](https://github.com/erensmsek) |
+| 2 | Mert Oğuz Mirzaoğlu | [@mertmrz](https://github.com/mertmrz) |
+| 3 | Muhammet Şimşek | [@muhametsmsek](https://github.com/muhametsmsek) |
+| 4 | Ahmetcan Karabulut | [@ackrbulut11](https://github.com/ackrbulut11) |
+| 5 | Yunus Emre Erdoğan | [@Yunus1942](https://github.com/Yunus1942) |
 
 ## What we implement
 
