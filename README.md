@@ -34,6 +34,8 @@ data/                          test images
 results/                       saved figures
 slides/                        presentation (PDF)
 report/                        final report (PDF)
+exercises/                     weekly course exercise scripts
+progress.md                    progress tracking (done / to do)
 requirements.txt
 ```
 
